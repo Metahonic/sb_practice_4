@@ -1,0 +1,7 @@
+﻿  practice_13.cpp
+D:\Projects\UE5\Skillbox\sb_practice_4\practice_13\Helpers.h(4,12): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "practice_13.cpp")
+  
+D:\Projects\UE5\Skillbox\sb_practice_4\practice_13\practice_13.cpp(15,76): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\Projects\UE5\Skillbox\sb_practice_4\practice_13\practice_13.cpp(15,73): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  practice_13.vcxproj -> D:\Projects\UE5\Skillbox\sb_practice_4\practice_13\x64\Debug\practice_13.exe
