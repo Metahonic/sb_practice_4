@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\UE5\\Skillbox\\sb_practice_4\\practice_16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82BBF2FF-CB46-4D15-8073-ED63759C05F6}|practice_16.vcxproj|D:\\Projects\\UE5\\Skillbox\\sb_practice_4\\practice_16\\practice_16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82BBF2FF-CB46-4D15-8073-ED63759C05F6}|practice_16.vcxproj|solutionrelative:practice_16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practice_16.cpp",
+              "DocumentMoniker": "D:\\Projects\\UE5\\Skillbox\\sb_practice_4\\practice_16\\practice_16.cpp",
+              "RelativeDocumentMoniker": "practice_16.cpp",
+              "ToolTip": "D:\\Projects\\UE5\\Skillbox\\sb_practice_4\\practice_16\\practice_16.cpp",
+              "RelativeToolTip": "practice_16.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAMwAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T09:25:19.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
