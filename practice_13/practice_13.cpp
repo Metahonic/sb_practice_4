@@ -3,7 +3,7 @@
 
 int main()
 {
-    long long a, b;
+    int a, b;
 
     std::cout << "This program can calculate square of the sum of 2 entered numbers." << std::endl;
 

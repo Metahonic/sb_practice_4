@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Projects\\UE5\\Skillbox\\sb_practice_4\\practice_13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D098ED2-1516-43BD-9455-5E1E818A16F0}|practice_13.vcxproj|D:\\Projects\\UE5\\Skillbox\\sb_practice_4\\practice_13\\Helpers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4D098ED2-1516-43BD-9455-5E1E818A16F0}|practice_13.vcxproj|solutionrelative:Helpers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D098ED2-1516-43BD-9455-5E1E818A16F0}|practice_13.vcxproj|D:\\Projects\\UE5\\Skillbox\\sb_practice_4\\practice_13\\practice_13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4D098ED2-1516-43BD-9455-5E1E818A16F0}|practice_13.vcxproj|solutionrelative:practice_13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D098ED2-1516-43BD-9455-5E1E818A16F0}|practice_13.vcxproj|D:\\Projects\\UE5\\Skillbox\\sb_practice_4\\practice_13\\Helpers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D098ED2-1516-43BD-9455-5E1E818A16F0}|practice_13.vcxproj|solutionrelative:Helpers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Helpers.h",
               "DocumentMoniker": "D:\\Projects\\UE5\\Skillbox\\sb_practice_4\\practice_13\\Helpers.h",
               "RelativeDocumentMoniker": "Helpers.h",
               "ToolTip": "D:\\Projects\\UE5\\Skillbox\\sb_practice_4\\practice_13\\Helpers.h",
               "RelativeToolTip": "Helpers.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-25T02:22:10.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "practice_13.cpp",
               "DocumentMoniker": "D:\\Projects\\UE5\\Skillbox\\sb_practice_4\\practice_13\\practice_13.cpp",
               "RelativeDocumentMoniker": "practice_13.cpp",
               "ToolTip": "D:\\Projects\\UE5\\Skillbox\\sb_practice_4\\practice_13\\practice_13.cpp",
               "RelativeToolTip": "practice_13.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-25T02:17:02.67Z",
               "EditorCaption": ""
