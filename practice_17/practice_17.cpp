@@ -5,17 +5,13 @@
 class Vector
 {
 private:
-    std::vector<int> Coordinates{0,1,0,1,0,1};
+    std::vector<float> XYZ{1,1,1};
+    double a{ 0 };
 public:
-    void Show()
+    Vector()
     {
-        std::cout << "X1:" << Coordinates[0] << "; " << "X2:" << Coordinates[1] << "\n";
-        std::cout << "Y1:" << Coordinates[0] << "; " << "Y2:" << Coordinates[1] << "\n";
-        std::cout << "Z1:" << Coordinates[0] << "; " << "Z2:" << Coordinates[1] << "\n";
-    }
-    void VectorLength()
-    {
-        double a = sqrt(std::pow(Coordinates[1] - Coordinates[0], 2) + std::pow(Coordinates[3] - Coordinates[2], 2) + std::pow(Coordinates[5] - Coordinates[4], 2));
+        std::cout << "X:" << XYZ[0] << "; " << "Y:" << XYZ[1] << "; " << "Z:" << XYZ[2] << "\n\n";
+        a = sqrt(std::pow(XYZ[0], 2) + std::pow(XYZ[1], 2) + std::pow(XYZ[2], 2));
         std::cout << "Vector length: " << a << "\n";
     }
 };
@@ -23,8 +19,5 @@ public:
 int main()
 {
     Vector Default;
-    Default.Show();
-    std::cout << "\n";
-    Default.VectorLength();
     return 0;
 }
