@@ -1,23 +1,25 @@
 ﻿#include <iostream>
-#include <vector>
 #include <cmath>
 
 class Vector
 {
 private:
-    std::vector<float> XYZ{1,1,1};
-    double a{ 0 };
+    float x_;
+    float y_;
+    float z_;
+    float m_;
+    
 public:
-    Vector()
+    Vector(float x, float y, float z) : x_(x), y_(y), z_(z)
     {
-        std::cout << "X:" << XYZ[0] << "; " << "Y:" << XYZ[1] << "; " << "Z:" << XYZ[2] << "\n\n";
-        a = sqrt(std::pow(XYZ[0], 2) + std::pow(XYZ[1], 2) + std::pow(XYZ[2], 2));
-        std::cout << "Vector length: " << a << "\n";
+        std::cout << "X:" << x << "; " << "Y:" << y << "; " << "Z:" << z << "\n\n";
+        m_ = sqrt(std::pow(x, 2) + std::pow(y, 2) + std::pow(z, 2));
+        std::cout << "Vector length: " << m_ << "\n";
     }
 };
 
 int main()
 {
-    Vector Default;
+    Vector Default(1,2,3);
     return 0;
 }
